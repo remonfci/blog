@@ -1,0 +1,2 @@
+# blog
+Aqarmap blog task
